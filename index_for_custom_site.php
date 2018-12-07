@@ -1,4 +1,5 @@
-<?php
+<?php  
+
 /*******************************************************************************
  * Copyright (c) 2014 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials

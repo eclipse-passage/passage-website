@@ -1,4 +1,4 @@
-<?php
+<?php 
 /*******************************************************************************
  * Copyright (c) 2014 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
@@ -10,7 +10,6 @@
  *    Christopher Guindon (Eclipse Foundation) - Initial implementation
  *******************************************************************************/
 ?>
-
 <!-- Main content area -->
 <div id="midcolumn">
   <h1><?php print $pageTitle;?></h1>

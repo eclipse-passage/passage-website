@@ -1,4 +1,4 @@
-<?php
+<?php 
 /*******************************************************************************
  * Copyright (c) 2014 Eclipse Foundation and others.
  * All rights reserved. This program and the accompanying materials
@@ -21,3 +21,4 @@
   $Nav->addCustomNav("Documentation", "/eclipse.org-common/themes/solstice/docs/", "_self", NULL);
   $Nav->addCustomNav("Source code", "http://git.eclipse.org/c/www.eclipse.org/eclipse.org-common.git/tree/themes/solstice/", "_self", NULL);
   $Nav->addCustomNav("Using Phoenix", "http://wiki.eclipse.org/Using_Phoenix", "_self", NULL);
+
