@@ -28,30 +28,26 @@
 			</ul>
 	</div>
 	<div id="midcolumn">
-	<h3>Eclipse Passage (Licensing Tooling)</h3>
+	<h3>Eclipse Passage (License Management Solution)</h3>
 	<div id="introText">
 
 <p>
-    The Eclipse Passage project aims to provide rich and easily adoptable capabilities to define and control licensing constraints.
-    The Eclipse Passage represent several components for licensing processing:
-    <li>Licensing Operator Client</li>
-    <li>Licensing Runtime Interfaces</li>
-    <li>Licensing Backend Server</li>
-    Eclipse Passage technology offer to use API for:
-	<li>Licensing product definition</li>
-	<li>Key pair generation for defined product</li>
-	<li>Public key intedification in the user/product locations</li>
-    <li>User(profile) definition for the licensing</li>
-    <li>Feature and action definition for licensing purpose</li>
-    <li>Fuctionality resctriction based on licensing parameters</li>
+	The Eclipse Passage project aims to provide rich and easily adaptable capabilities to define and control licensing constraints.
+	<p/>
+	The Eclipse Passage represents several sets of components for license management:
+	<p/>
+	<li>Licensing Runtime Interfaces</li>
+	<li>Licensing Operator Client</li>
+	<li>Licensing Back-end Server</li>
+	<p/>
+	<p/>
 
-    Any licensing subsystem in general present API (low API) for external usage based on any scpecific language, which
-    as common needs to be covered by plugins and as usual could not be used due to external dependencies exists, theuse
-    are qute hard for integration and require additional level of licensing layer.
-    On other side the Eclispe Passage which offer licensing system implenetation in Eclipse terminology way,
-    operates with known identifiers for products, features, commands and other eclipse platform structure nodes.
+	Eclipse Passage is primary focused to support OSGi-based products:
+	<li>Capability-based licensing constraints definitions</li>
+	<li>Component-based licensing constraints definitions</li>
+	<li>More to come</li>
 
-    Simple for usage, simple for integrationg, simple for maintaince.
+	Easy to use, simple to integrate, cheap to maintain.
 
 </p>
 <img
@@ -71,7 +67,7 @@
 <p></p>
 </div>
 <div id="headlines">
-<h3>Eclipse Passage on the development</h3>
+<h3>Eclipse Passage is under development: version 0.4.0 will be released soon</h3>
 </div>
 </div>
 EOHTML;
