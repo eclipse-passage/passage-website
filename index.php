@@ -14,18 +14,13 @@
 
 	// 	# Paste your HTML content between the EOHTML markers!
 	$html = <<<EOHTML
-	<div id="bigbuttons">
-		<h3>Primary Links</h3>
-			<ul>
-			<li><a id="buttonDownload" href="downloads.php" title="Download">
-					Eclipse Passage Distribution</a></li>
-			<li><a id="buttonDocumentation" href="documentation.php" title="Documentation">
-					Tutorials, Reference Documentation</a></li>
-			<li><a id="buttonSupport" href="support.php" title="Support">
-					Bug Tracker, Newsgroup</a></li>
-			<li><a id="buttonInvolved" href="developers.php" title="Getting Involved">
-					Git, Workspace Setup, Wiki, Committers</a></li>
-			</ul>
+	<div>
+		<img
+    		class="displayed"
+   	 		src="/passage/images/title.png"
+    		height="200"
+    		alt="Eclipse Passage Title"
+    		border="0"/>		
 	</div>
 	<div id="midcolumn">
 	<h3>Eclipse Passage (License Management Solution)</h3>
@@ -61,13 +56,12 @@
 </div>
 
 <div id="rightcolumn">
-
-<div>
-<h3>Current Status</h3>
-<p></p>
-</div>
 <div id="headlines">
-<h3>Eclipse Passage is under development: version 0.4.0 will be released soon</h3>
+	<h3>Eclipse Passage 0.4.0</h3>
+	<p>
+		<i>This is the first release of Eclipse Passage at Eclipse Foundation.</i>
+		<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.4.0">Details</a>
+	</p>
 </div>
 </div>
 EOHTML;
