@@ -59,8 +59,13 @@
 <div id="headlines">
 	<h3>Eclipse Passage 0.4.0</h3>
 	<p>
-		<i>This is the first release of Eclipse Passage at Eclipse Foundation.</i>
-		<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.4.0">Details</a>
+		<a href="https://www.eclipse.org/projects/what-is-incubation.php">
+			<img class="project-image center-block margin-bottom-20 img-responsive" typeof="foaf:Image" src="https://projects.eclipse.org/sites/all/modules/custom/pmi/project_state/images/incubating.png" alt="Incubating - Eclipse Passage">
+		</a>
+		<p/>
+		<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.4.0">
+			<i>The first release of Eclipse Passage at Eclipse Foundation is in progress.</i>
+		</a>
 	</p>
 </div>
 </div>
