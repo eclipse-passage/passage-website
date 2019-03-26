@@ -14,19 +14,12 @@
 
 	// 	# Paste your HTML content between the EOHTML markers!
 	$html = <<<EOHTML
-	<div>
-		<img
-    		class="displayed"
-   	 		src="/passage/images/title.png"
-    		height="200"
-    		alt="Eclipse Passage Title"
-    		border="0"/>		
-	</div>
-	<div id="midcolumn">
+	
+<div id="midcolumn">
 	<h3>Eclipse Passage (License Management Solution)</h3>
 	<div id="introText">
 
-<p>
+	<p>
 	The Eclipse Passage project aims to provide rich and easily adaptable capabilities to define and control licensing constraints.
 	<p/>
 	The Eclipse Passage represents several sets of components for license management:
@@ -44,14 +37,13 @@
 
 	Easy to use, simple to integrate, cheap to maintain.
 
-</p>
+	</p>
 <img
-    class="displayed"
-    src="/passage/images/snapshot.png"
-    height="550"
-    alt="Eclipse Passage Snapshots"
-    border="0"/>
-
+	class="displayed"
+	src="/passage/images/snapshot.png"
+	height="550"
+	alt="Eclipse Passage Snapshots"
+	border="0"/>
 </div>
 </div>
 
@@ -67,6 +59,9 @@
 			<i>The first release of Eclipse Passage at Eclipse Foundation is in progress.</i>
 		</a>
 	</p>
+	<h3> How To Passage</h3>
+	<a href="eclipse.passage.howto.licensing.color.configuration.html">
+	<i>How to customize licensing colors for product</i>
 </div>
 </div>
 EOHTML;
