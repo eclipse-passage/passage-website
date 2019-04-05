@@ -21,14 +21,25 @@
 
 	<p>
 	The Eclipse Passage project aims to provide rich and easily adaptable capabilities to define and control licensing constraints.
+	</p>
+	
+	<p/>
+	We will be happy to help with integration, you are welcome to:
+	<p/>
+	<li><a href="https://www.eclipse.org/forums/index.php/f/449/">initiate discussion</a></li>
+	<li><a href="https://dev.eclipse.org/mhonarc/lists/passage-dev">contact developers</a></li>
+	<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=passage&component=General">or request a change</a></li>
+	</p>
+	</p>
+
 	<p/>
 	The Eclipse Passage represents several sets of components for license management:
 	<p/>
 	<li>Licensing Runtime Interfaces</li>
 	<li>Licensing Operator Client</li>
 	<li>Licensing Back-end Server</li>
-	<p/>
-	<p/>
+	</p>
+	</p>
 
 	Eclipse Passage is primary focused to support OSGi-based products:
 	<li>Capability-based licensing constraints definitions</li>
@@ -48,21 +59,23 @@
 </div>
 
 <div id="rightcolumn">
-<div id="headlines">
-	<h3>Eclipse Passage 0.4.0</h3>
-	<p>
-		<a href="https://www.eclipse.org/projects/what-is-incubation.php">
-			<img class="project-image center-block margin-bottom-20 img-responsive" typeof="foaf:Image" src="https://projects.eclipse.org/sites/all/modules/custom/pmi/project_state/images/incubating.png" alt="Incubating - Eclipse Passage">
+	<div id="headlines">
+		<a href="https://wiki.eclipse.org/Passage">
+			<h3>Eclipse Passage Wiki</h3>
 		</a>
-		<p/>
-		<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.4.0">
-			<i>The first release of Eclipse Passage at Eclipse Foundation is in progress.</i>
-		</a>
-	</p>
-	<h3> How To Passage</h3>
-	<a href="eclipse.passage.howto.licensing.color.configuration.html">
-	<i>How to customize licensing colors for product</i>
-</div>
+		<p>
+			<a href="https://www.eclipse.org/projects/what-is-incubation.php">
+				<img class="project-image center-block margin-bottom-20 img-responsive" typeof="foaf:Image" src="https://projects.eclipse.org/sites/all/modules/custom/pmi/project_state/images/incubating.png" alt="Incubating - Eclipse Passage">
+			</a>
+			<p/>
+			<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.4.0">
+				<i>The Eclipse Passage 0.4.0 (available)</i>
+			</a>
+			<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.5.0">
+				<i>The Eclipse Passage 0.5.0 (planned)</i>
+			</a>
+		</p>
+	</div>
 </div>
 EOHTML;
 	# Generate the web page
