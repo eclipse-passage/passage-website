@@ -40,6 +40,7 @@
 		<li>Licensing Runtime Interfaces</li>
 		<li>Licensing Operator Client</li>
 		<li>Licensing Back-end Server</li>
+		<li>Licensing Development Tools</li>
 		</p>
 		</p>
 		</div>
@@ -79,7 +80,7 @@
 			</a>
 			<p/>
 			<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.5.0">
-				<i>Eclipse Passage 0.5.0 (planned)</i>
+				<i>Eclipse Passage 0.5.0 (in progress)</i>
 			</a>
 		</p>
 	</div>
