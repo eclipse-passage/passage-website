@@ -40,7 +40,7 @@
 		<li>Licensing Runtime Interfaces</li>
 		<li>Licensing Operator Client</li>
 		<li>Licensing Back-end Server</li>
-		<li>Licensing Development Tools</li>
+		<li>Licensing Definition IDE Tools</li>
 		</p>
 		</p>
 		</div>
@@ -71,11 +71,8 @@
 <div id="rightcolumn">
 	<div id="headlines">
 		<p>
-			<a href="https://www.eclipse.org/projects/what-is-incubation.php">
-				<img class="project-image center-block margin-bottom-20 img-responsive" typeof="foaf:Image" src="https://projects.eclipse.org/sites/all/modules/custom/pmi/project_state/images/incubating.png" alt="Incubating - Eclipse Passage">
-			</a>
 			<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.6.0">
-				<i>Eclipse Passage 0.6.0 (in progress)</i>
+				<i>Eclipse Passage 0.6.0 (available)</i>
 			</a>
 			<p/>
 			<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.5.0">

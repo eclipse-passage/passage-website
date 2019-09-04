@@ -15,7 +15,7 @@
 	Getting started with Passage Licensing System</a>
 </li>
 <li>
-    <a href="https://git.eclipse.org/c/passage/passage.git/">Browse the Git repository</a><br>
+    <a href="https://github.com/eclipse/passage/">Browse the Git repository</a><br>
 </li>
 <li>
     <a href="https://dev.eclipse.org/mailman/listinfo/passage-dev">
