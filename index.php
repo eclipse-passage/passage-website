@@ -74,6 +74,7 @@
 			<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.7.0">
 				<i>Eclipse Passage 0.7.0 (in progress)</i>
 			</a>
+			<p/>
 			<a href="https://projects.eclipse.org/projects/technology.passage/releases/0.6.0">
 				<i>Eclipse Passage 0.6.0 (available)</i>
 			</a>
