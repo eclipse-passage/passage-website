@@ -11,12 +11,32 @@
 		AParovyshnaya - initial API and implementation
 */
 
+main {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+}
+
 section {
 	margin-bottom: 1rem;
 }
 
-section.links {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
+section.description {
+	text-align: center;
+	font-size: 120%;
 }
+
+section.links {
+	align-self: center;
+}
+
+ul {
+	list-style-type: "»";
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+li.inner {
+	list-style-type: none;
+	padding-left: 2rem;
+} 
