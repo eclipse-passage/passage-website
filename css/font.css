@@ -1,0 +1,33 @@
+@font-face {
+	font-family: "Aleo";
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+
+	src: local("Aleo"),
+		url("../fonts/Aleo-Regular.woff2") format("woff2"),
+}
+
+@font-face {
+	font-family: "Aleo";
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+
+	src: local("Aleo"),
+		url("../fonts/Aleo-SemiBold.woff2") format("woff2"),
+}
+
+@font-face {
+	font-family: "Aleo";
+	font-style: italic;
+	font-weight: 600;
+	font-display: swap;
+
+	src: local("Aleo"),
+		url("../fonts/Aleo-SemiBoldItalic.woff2") format("woff2"),
+}
+
+body {
+	font-family: "Aleo", "Palatino", "Georgia", serif;
+}

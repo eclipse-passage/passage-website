@@ -1,0 +1,37 @@
+a {
+	color: #2B59C3;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a::before {
+	color: #C43333;
+	margin-right: .25rem;
+}
+
+a[href*="passage-docs"]::before {
+	content: "♘";
+}
+
+a[href*="technology"]::before {
+	content: "⚒";
+}
+
+a[href*="arsysop.ru"]::before {
+	content: "⚙";
+}
+
+a[href*="lists/passage-dev"]::before {
+	content: "✵";
+}
+
+a[href*="lists/passage-dev"]::before {
+	content: "✵";
+}
+
+a[href*="aleo"]::before {
+	content: "▨";
+}
