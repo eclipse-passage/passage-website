@@ -23,21 +23,30 @@ body {
 	flex-direction: column;
 	min-height: 100vh;
 	hyphens: auto;
+	justify-content: center;
+	align-items: center;
 }
 
 header {
 	padding: 3rem;
 	padding-bottom: 1rem;
-}
-
-main {
-	padding-left: 1.5rem;
-	padding-right: 0.5rem;
+	width: 50%;
+	align-self: center;
 }
 
 footer {
-	padding-left: 1.5rem;
-	padding-right: 0.5rem;
+	padding-bottom: 2rem;
+	font-size: 80%;
+	width: 100%;
+}
+
+footer .resources {
+	text-align: right;
+	margin-right: 10%;
+}
+
+footer .copyright {
+	text-align: center;
 }
 
 img {

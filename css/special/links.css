@@ -45,6 +45,18 @@ a[href*="lists/passage-dev"]::before {
 	content: "✵";
 }
 
+a[href*="mail"]::before {
+	content: "✉";
+}
+
 a[href*="aleo"]::before {
 	content: "▨";
+}
+
+a[href="https://www.eclipse.org"]::before {
+	content: "☾";
+}
+
+footer a[href="https://arsysop.ru"]::before {
+	content: "☄";
 }
