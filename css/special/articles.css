@@ -1,0 +1,9 @@
+section {
+	margin-bottom: 1rem;
+}
+
+section.links {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
